@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Web Application , Mobile Application and Photoshop**
 
-- 📫 How to reach me **shahzzarralii@gmail.com**
-
 - ⚡ Fun fact **I like to travel**
 
 <h3 align="left">Connect with me:</h3>
