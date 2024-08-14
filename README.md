@@ -1,12 +1,13 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
 <h1 align="center">Hi 👋, I'm Shahzar Ali</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHI4dzRvbXU4NTR5d3Juejh2ZzJidXFqZWNxODBnYTdjb29idzc1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzar-ali&label=Profile%20views&color=0e75b6&style=flat" alt="shahzar-ali" /> </p>
 
 - 🔭 I’m currently working on **BCDApps**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **Web Application , Mobile Application and Photoshop**
 
